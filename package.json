@@ -17,11 +17,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daddy-1119/getappniche-mcp.git"
+    "url": "git+https://github.com/getappniche-com/mcp.git"
   },
   "homepage": "https://getappniche.com/mcp",
   "bugs": {
-    "url": "https://github.com/daddy-1119/getappniche-mcp/issues"
+    "url": "https://github.com/getappniche-com/mcp/issues"
   },
   "keywords": [
     "mcp",

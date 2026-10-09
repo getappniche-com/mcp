@@ -4,7 +4,7 @@
   "description": "Live App Store & Google Play data for AI agents: app discovery, ASO keywords, reviews.",
   "websiteUrl": "https://getappniche.com/mcp",
   "repository": {
-    "url": "https://github.com/daddy-1119/getappniche-mcp",
+    "url": "https://github.com/getappniche-com/mcp",
     "source": "github"
   },
   "version": "1.2.0",

@@ -100,7 +100,7 @@ bearer_token_env_var = "GETAPPNICHE_API_KEY"
 Zed, Cline, Continue and JetBrains AI are covered too —
 [getappniche.com/mcp](https://getappniche.com/mcp) has every snippet.
 Companion agent skills:
-[`getappniche/aso-skills`](https://github.com/getappniche/aso-skills)
+[`getappniche-com/aso-skills`](https://github.com/getappniche-com/aso-skills)
 (`npx skills add getappniche/aso-skills`).
 
 **ChatGPT** — Settings → Connectors → create a custom connector (Developer
