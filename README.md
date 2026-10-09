@@ -101,7 +101,7 @@ Zed, Cline, Continue and JetBrains AI are covered too —
 [getappniche.com/mcp](https://getappniche.com/mcp) has every snippet.
 Companion agent skills:
 [`getappniche-com/aso-skills`](https://github.com/getappniche-com/aso-skills)
-(`npx skills add getappniche/aso-skills`).
+(`npx skills add getappniche-com/aso-skills`).
 
 **ChatGPT** — Settings → Connectors → create a custom connector (Developer
 mode), point it at `https://api.getappniche.com/mcp` and pick **API key**
