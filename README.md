@@ -151,12 +151,12 @@ to `api.getappniche.com` — nothing else, nowhere else.
 
 ## Tools
 
-- `search_apps` - Search apps across 25+ filters: store, categories, languages, price model, rating, reviews, downloads, revenue, release and update recency, review growth - sorted by any column (1 credit)
+- `search_apps` - Search apps across 25+ filters: store, categories, languages, price model, rating, reviews, downloads, revenue, release and update recency, review growth - sorted by any column (1 credit per app returned, 10 a call by default, up to 100)
 - `get_app_detail` - Get one app by canonical id, bare Apple id, Android package name, or a pasted store URL (1 credit)
 - `get_app_historicals` - Metric time series: reviews, ratings, downloads, revenue (1 credit)
 - `get_keyword_difficulty` - Popularity, difficulty, traffic and opportunity for a keyword (10 credits)
 - `batch_keyword_difficulty` - Score up to 10 keywords, sorted by opportunity (10 credits per keyword)
-- `get_app_reviews` - Live App Store or Google Play reviews for any app by id, package name or URL, or enriched rows for apps monitored in your workspace (1 credit)
+- `get_app_reviews` - Live App Store or Google Play reviews for any app by id, package name or URL, or enriched rows for apps monitored in your workspace (1 credit per review returned, 10 a call by default, up to 100)
 - `get_supported_countries` - List valid store country codes (free)
 
 Credits ship with a GetAppNiche plan (Pro: 5,000/month) and every result reports
